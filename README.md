@@ -4,6 +4,7 @@ This project analyzes women’s clothing reviews to extract insights about custo
 
 
 **📌 Project Overview**
+
 Duration: Apr 2025 – Present
 
 Role: Individual Project
@@ -21,12 +22,15 @@ Visualize statistical relationships and key patterns in customer opinions.
 
 
 **🔍 Key Features**
+
 **✅ Data Preprocessing**
+
 Cleaned textual data (e.g., spelling correction, removing stopwords).
 
 Applied stemming and lemmatization using nltk and spaCy.
 
 **✅ Statistical Analysis**
+
 Conducted:
 
 Univariate analysis (e.g., rating distribution)
@@ -36,6 +40,7 @@ Bivariate analysis (e.g., rating vs. sentiment)
 Multivariate analysis (e.g., age group, rating, and review length)
 
 **✅ Text Analysis**
+
 Performed Sentiment Analysis to classify review polarity.
 
 Applied N-gram modeling to find common word patterns.
@@ -45,6 +50,7 @@ Created Word Clouds to visualize top keywords.
 
 
 **📈 Visualization Examples**
+
 Distribution of ratings and sentiment classes.
 
 Word clouds of positive vs. negative reviews.
@@ -56,12 +62,14 @@ Age group vs. review sentiment correlation.
 
 
 **🧰 Tech Stack**
+
 Languages: Python
 
 Libraries: Pandas, NumPy, NLTK, Matplotlib, Seaborn, WordCloud, spaCy
 
 
 **📂 Folder Structure**
+
  womens-clothing-analysis/
 ├── analysis.ipynb               # Main notebook with code and plots
 ├── data/                        # CSV dataset
@@ -70,6 +78,7 @@ Libraries: Pandas, NumPy, NLTK, Matplotlib, Seaborn, WordCloud, spaCy
 
 
 **🚀 Future Enhancements**
+
 Add a web app dashboard with Streamlit.
 
 Train a machine learning model for review sentiment prediction.
